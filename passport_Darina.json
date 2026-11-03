@@ -1,0 +1,86 @@
+{
+  "collected_at": "2026-11-04 01:37:21",
+  "system": {
+    "hostname": "Darina",
+    "os": "Windows",
+    "os_version": "10.0.26200",
+    "architecture": "AMD64",
+    "boot_time": "2026-11-04 00:28"
+  },
+  "cpu": {
+    "model": "Intel64 Family 6 Model 154 Stepping 3, GenuineIntel",
+    "physical_cores": 12,
+    "logical_cores": 16,
+    "max_freq_mhz": 3100,
+    "load_percent": 29.8
+  },
+  "memory": {
+    "total_gb": 15.7,
+    "used_percent": 68.9,
+    "available_gb": 4.9
+  },
+  "disks": [
+    {
+      "device": "C:\\",
+      "mountpoint": "C:\\",
+      "fs": "NTFS",
+      "total_gb": 460.4,
+      "used_percent": 98.2
+    },
+    {
+      "device": "D:\\",
+      "mountpoint": "D:\\",
+      "fs": "NTFS",
+      "total_gb": 14.4,
+      "used_percent": 94.5
+    }
+  ],
+  "network": [
+    {
+      "interface": "Ethernet",
+      "ipv4": "169.254.25.40",
+      "netmask": "255.255.0.0",
+      "mac": "08-8F-C3-7E-60-16"
+    },
+    {
+      "interface": "Ethernet 2",
+      "ipv4": "192.168.56.1",
+      "netmask": "255.255.255.0",
+      "mac": "0A-00-27-00-00-07"
+    },
+    {
+      "interface": "Подключение по локальной сети",
+      "ipv4": "169.254.42.213",
+      "netmask": "255.255.0.0",
+      "mac": "00-FF-79-8D-FE-F6"
+    },
+    {
+      "interface": "Подключение по локальной сети* 1",
+      "ipv4": "169.254.120.13",
+      "netmask": "255.255.0.0",
+      "mac": "00-A5-54-30-C3-C1"
+    },
+    {
+      "interface": "Подключение по локальной сети* 2",
+      "ipv4": "169.254.33.83",
+      "netmask": "255.255.0.0",
+      "mac": "02-A5-54-30-C3-C0"
+    },
+    {
+      "interface": "Беспроводная сеть",
+      "ipv4": "10.191.56.120",
+      "netmask": "255.255.255.0",
+      "mac": "16-9F-48-78-B1-52"
+    },
+    {
+      "interface": "Loopback Pseudo-Interface 1",
+      "ipv4": "127.0.0.1",
+      "netmask": "255.0.0.0",
+      "mac": null
+    }
+  ],
+  "recommendations": [
+    "Освободить место на диске C:\\",
+    "Освободить место на диске D:\\"
+  ]
+}
